@@ -23,75 +23,77 @@ We welcome contributions! To add a new template to this repository:
    - `name`: A human-readable name.
    - `description`: A short summary of what the template is for.
    - `category`: Choose an appropriate category.
-   - `content`: The raw Markdown content of your template inside backticks.
+   - `content`: The raw Markdown content of your template.
 4. **Commit your changes** and push to your fork.
 5. **Open a Pull Request** against our main branch.
 
 ## 📚 Available Templates
 
-We have designed a suite of templates covering all popular use cases. You can view them live on our website or scroll down to see the raw markdown content.
+We have designed a suite of templates covering all popular use cases. You can view them live on our website or scroll down to see the rendered markdown preview.
 
 - **Standard Open Source**: A comprehensive template for standard open-source projects with all necessary sections. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/standard-open-source)
-  - 📄 [View Markdown Code](#standard-open-source)
+  - 👀 [View Markdown Preview](#standard-open-source)
 
 - **Minimalist**: A clean, minimal README that gets straight to the point. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/minimal)
-  - 📄 [View Markdown Code](#minimal)
+  - 👀 [View Markdown Preview](#minimal)
 
 - **SaaS Application**: For SaaS platforms. Covers architecture, multi-tenancy, billing, auth, and deployment. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/saas-product)
-  - 📄 [View Markdown Code](#saas-product)
+  - 👀 [View Markdown Preview](#saas-product)
 
 - **API Service**: For REST/GraphQL APIs. Covers endpoints, auth, rate limiting, error handling, and docs. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/api-service)
-  - 📄 [View Markdown Code](#api-service)
+  - 👀 [View Markdown Preview](#api-service)
 
 - **Frontend Application**: For React, Vue, Next.js apps. Covers UI, state, accessibility, testing, and deployment. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/frontend-app)
-  - 📄 [View Markdown Code](#frontend-app)
+  - 👀 [View Markdown Preview](#frontend-app)
 
 - **Backend Service**: For server-side applications. Covers architecture, DB, caching, queues, and production setup. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/backend-service)
-  - 📄 [View Markdown Code](#backend-service)
+  - 👀 [View Markdown Preview](#backend-service)
 
 - **CLI Tool**: For command-line tools. Covers commands, flags, config files, shell completion, and publishing. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/cli-tool)
-  - 📄 [View Markdown Code](#cli-tool)
+  - 👀 [View Markdown Preview](#cli-tool)
 
 - **Mobile Application**: For React Native or Flutter apps. Covers platform setup, build, store deployment, and testing. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/mobile-app)
-  - 📄 [View Markdown Code](#mobile-app)
+  - 👀 [View Markdown Preview](#mobile-app)
 
 - **Browser Extension**: For Chrome/Firefox extensions. Covers permissions, manifest V3, loading, and store publishing. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/browser-extension)
-  - 📄 [View Markdown Code](#browser-extension)
+  - 👀 [View Markdown Preview](#browser-extension)
 
 - **Machine Learning Project**: For ML/AI projects. Covers dataset, model training, evaluation metrics, inference, and reproducibility. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/machine-learning)
-  - 📄 [View Markdown Code](#machine-learning)
+  - 👀 [View Markdown Preview](#machine-learning)
 
 - **Monorepo**: For Turborepo / Nx monorepos. Covers workspace structure, shared packages, scripts, and CI. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/monorepo)
-  - 📄 [View Markdown Code](#monorepo)
+  - 👀 [View Markdown Preview](#monorepo)
 
 - **Design System / Component Library**: For shared UI libraries. Covers Storybook, tokens, theming, components, and publishing. 
   - 🔗 [View Live on Website](https://www.readmecodegen.com/readme-templates/design-system)
-  - 📄 [View Markdown Code](#design-system)
+  - 👀 [View Markdown Preview](#design-system)
 
 
 ---
 
 <a id="standard-open-source"></a>
-## Standard Open Source
+## 📑 Template: Standard Open Source
 
 > A comprehensive template for standard open-source projects with all necessary sections.
 
 **Category**: Open Source | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/standard-open-source)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Project Logo" width="150" />
 
@@ -388,20 +390,23 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 Your Name — [@your_twitter](https://twitter.com/your_twitter) — email@example.com
 
 Project Link: [https://github.com/username/project](https://github.com/username/project)
-````
+
+</details>
 
 ---
 
 <a id="minimal"></a>
-## Minimalist
+## 📑 Template: Minimalist
 
 > A clean, minimal README that gets straight to the point.
 
 **Category**: Minimal | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/minimal)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 # Project Name
 
 > One-line description of what this project does.
@@ -446,20 +451,23 @@ Pull requests are welcome. For major changes, open an issue first.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-````
+
+</details>
 
 ---
 
 <a id="saas-product"></a>
-## SaaS Application
+## 📑 Template: SaaS Application
 
 > For SaaS platforms. Covers architecture, multi-tenancy, billing, auth, and deployment.
 
 **Category**: SaaS | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/saas-product)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -717,20 +725,23 @@ npm run test:coverage   # Coverage report
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
 <a id="api-service"></a>
-## API Service
+## 📑 Template: API Service
 
 > For REST/GraphQL APIs. Covers endpoints, auth, rate limiting, error handling, and docs.
 
 **Category**: API | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/api-service)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/120" alt="Logo" width="120" />
 
@@ -1000,20 +1011,23 @@ docker run -p 3000:3000 --env-file .env api-service
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
 <a id="frontend-app"></a>
-## Frontend Application
+## 📑 Template: Frontend Application
 
 > For React, Vue, Next.js apps. Covers UI, state, accessibility, testing, and deployment.
 
 **Category**: Frontend | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/frontend-app)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -1255,20 +1269,23 @@ docker run -p 3000:3000 frontend-app
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-````
+
+</details>
 
 ---
 
 <a id="backend-service"></a>
-## Backend Service
+## 📑 Template: Backend Service
 
 > For server-side applications. Covers architecture, DB, caching, queues, and production setup.
 
 **Category**: Backend | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/backend-service)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -1554,20 +1571,23 @@ pm2 start dist/server.js --name backend-service
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
 <a id="cli-tool"></a>
-## CLI Tool
+## 📑 Template: CLI Tool
 
 > For command-line tools. Covers commands, flags, config files, shell completion, and publishing.
 
 **Category**: CLI Tool | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/cli-tool)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
 
   # 🖥️ cli-tool-name
@@ -1804,20 +1824,23 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
 <a id="mobile-app"></a>
-## Mobile Application
+## 📑 Template: Mobile Application
 
 > For React Native or Flutter apps. Covers platform setup, build, store deployment, and testing.
 
 **Category**: Mobile App | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/mobile-app)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="App Icon" width="150" style="border-radius: 24px" />
 
@@ -2038,20 +2061,23 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and ensure all tests pass before submitt
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
 <a id="browser-extension"></a>
-## Browser Extension
+## 📑 Template: Browser Extension
 
 > For Chrome/Firefox extensions. Covers permissions, manifest V3, loading, and store publishing.
 
 **Category**: Browser Extension | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/browser-extension)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/128" alt="Icon" width="128" />
 
@@ -2260,20 +2286,23 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
 <a id="machine-learning"></a>
-## Machine Learning Project
+## 📑 Template: Machine Learning Project
 
 > For ML/AI projects. Covers dataset, model training, evaluation metrics, inference, and reproducibility.
 
 **Category**: Machine Learning | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/machine-learning)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -2546,20 +2575,23 @@ Reproducibility is required for all model changes. Include updated metrics, conf
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
 <a id="monorepo"></a>
-## Monorepo
+## 📑 Template: Monorepo
 
 > For Turborepo / Nx monorepos. Covers workspace structure, shared packages, scripts, and CI.
 
 **Category**: Monorepo | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/monorepo)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -2788,20 +2820,23 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). All changes must pass CI before merging
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
 <a id="design-system"></a>
-## Design System / Component Library
+## 📑 Template: Design System / Component Library
 
 > For shared UI libraries. Covers Storybook, tokens, theming, components, and publishing.
 
 **Category**: Design System | [View Live on ReadmeCodeGen](https://www.readmecodegen.com/readme-templates/design-system)
 
-### Template Content
+<details>
+<summary><b>👀 Click here to expand and see the rendered Preview</b></summary>
 
-````markdown
+<br>
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -3086,7 +3121,8 @@ npm run release    # Maintainers only
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-````
+
+</details>
 
 ---
 
