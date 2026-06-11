@@ -1,4 +1,3 @@
-
 # ReadmeCodeGen Templates 🚀
 
 This document lists all the pre-made **Templates** available in ReadmeCodeGen and explains how to use them within the interactive **Builder Editor**.
@@ -92,7 +91,7 @@ We have designed a suite of templates covering all popular use cases. You can vi
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Project Logo" width="150" />
 
@@ -389,7 +388,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 Your Name — [@your_twitter](https://twitter.com/your_twitter) — email@example.com
 
 Project Link: [https://github.com/username/project](https://github.com/username/project)
-```
+````
 
 ---
 
@@ -402,7 +401,7 @@ Project Link: [https://github.com/username/project](https://github.com/username/
 
 ### Template Content
 
-```markdown
+````markdown
 # Project Name
 
 > One-line description of what this project does.
@@ -447,7 +446,7 @@ Pull requests are welcome. For major changes, open an issue first.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
+````
 
 ---
 
@@ -460,7 +459,7 @@ Pull requests are welcome. For major changes, open an issue first.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -718,7 +717,7 @@ npm run test:coverage   # Coverage report
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
@@ -731,7 +730,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/120" alt="Logo" width="120" />
 
@@ -1001,7 +1000,7 @@ docker run -p 3000:3000 --env-file .env api-service
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
@@ -1014,7 +1013,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -1256,7 +1255,7 @@ docker run -p 3000:3000 frontend-app
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-```
+````
 
 ---
 
@@ -1269,7 +1268,7 @@ docker run -p 3000:3000 frontend-app
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -1555,7 +1554,7 @@ pm2 start dist/server.js --name backend-service
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
@@ -1568,7 +1567,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
 
   # 🖥️ cli-tool-name
@@ -1805,7 +1804,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
@@ -1818,7 +1817,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="App Icon" width="150" style="border-radius: 24px" />
 
@@ -2039,7 +2038,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and ensure all tests pass before submitt
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
@@ -2052,7 +2051,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/128" alt="Icon" width="128" />
 
@@ -2261,7 +2260,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
@@ -2274,7 +2273,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -2547,7 +2546,7 @@ Reproducibility is required for all model changes. Include updated metrics, conf
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
@@ -2560,7 +2559,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -2789,7 +2788,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). All changes must pass CI before merging
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
@@ -2802,7 +2801,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ### Template Content
 
-```markdown
+````markdown
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
 
@@ -3087,7 +3086,7 @@ npm run release    # Maintainers only
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-```
+````
 
 ---
 
