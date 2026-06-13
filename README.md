@@ -2,7 +2,6 @@
 
 This document lists all the pre-made **Templates** available in ReadmeCodeGen and explains how to use them within the interactive **Builder Editor**.
 
-[![Dynamic File Tree](https://www.readmecodegen.com/api/file-tree-embed?repo=Readmecodegen%2Fgithub-readme-templates&branch=main&showHeader=true)](https://github.com/Readmecodegen/dynamic-github-file-tree-embed)
 
 ## 🛠️ How to Use the Builder Editor with Templates
 
